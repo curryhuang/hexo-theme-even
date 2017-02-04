@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2014
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -18,10 +18,10 @@ rss: false
 # ===========================================
 menu:
   Home: /
-  Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  # Archives: /archives/
+  Tags: /tags
+  Categories: /categories
+  About: /about
 
 # site search option
 search: false
@@ -35,18 +35,18 @@ fancybox: true
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
-  color: Default
+  color: Mint Green
 
 # ===========================================
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: huangpeng1009@gmail.com
   stack-overflow:
-  twitter:
-  facebook:
-  github: 
-  weibo: 
+  twitter: https://twitter.com/Curry_Huang
+  facebook: https://www.facebook.com/curry.huang.1009
+  github: https://github.com/curryhuang
+  weibo: http://weibo.com/spaisp
   zhihu: 
 
 # ===========================================
@@ -54,14 +54,14 @@ social:
 # ===========================================
 
 # Baidu Analytics
-baidu_analytics: 
+baidu_analytics: e7cbcbc6c877f0f9894242ad3c946943
 # Google Analytics
 google_analytics: 
 
 # Duoshuo
 duoshuo_shortname: 
 # Disqus
-disqus_shortname: 
+disqus_shortname: curryhuang
 
 
 # ===========================================
